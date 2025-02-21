@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🛠 I’m currently working on:<br>An Angular-based support ticket system, a multi-step form with dynamic data, and Ionic mobile layouts.<br><br>👥 I’m looking to collaborate on:<br>Open-source Angular projects, API integrations, and improving UX for web and mobile apps.<br><br>🤝 I’m looking for help with:<br>Optimizing mobile performance for Ionic apps and refining Angular routing for complex workflows.<br><br>🌱 I’m currently learning:<br>Advanced TypeScript patterns, responsive design techniques, and efficient state management in Angular.<br><br>💬 Ask me about:<br>Angular best practices, form validation in Angular Material, and Ionic for mobile development.<br><br>⚡ Fun fact:<br>I’m an electrical engineer by day and a passionate developer by night!
+🛠 I’m currently working on:<br>An Angular-based support ticket system, a multi-step form with dynamic data, and Ionic mobile layouts.<br><br>👥 I’m looking to collaborate on:<br>Open-source Angular projects, API integrations, and improving UX for web and mobile apps.<br><br>🤝 I’m looking for help with:<br>Optimizing mobile performance for Ionic apps and refining Angular routing for complex workflows.<br><br>🌱 I’m currently learning:<br>Advanced TypeScript patterns, responsive design techniques, and efficient state management in Angular.<br><br>💬 Ask me about:<br>Angular best practices, form validation in Angular Material, and Ionic for mobile development.<br>
 
 
 ## 🌐 Socials:
