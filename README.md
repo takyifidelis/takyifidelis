@@ -1,27 +1,15 @@
 # Hi, I'm Fidelis Takyi Mensah 👋
 
-## About Me
+I am a **Frontend Engineer and aspiring Solution Architect** building scalable, user-focused applications with Angular and TypeScript. I also develop full-stack solutions with NestJS and PostgreSQL while expanding my expertise in cloud-native architecture and AI-enabled software.
 
-I am a **Frontend Engineer and aspiring Frontend Architect** with a background in Electrical and Electronic Engineering. I build scalable, user-focused web applications with **Angular, TypeScript, RxJS, Signals, and modern state-management patterns**.
+- 🔭 Building enterprise Angular applications and reusable UI components
+- 🌱 Learning cloud architecture, DevOps, AI agents, RAG, and MCP
+- 🤝 Open to Angular, design-system, enterprise-platform, and AI collaborations
+- 💬 Ask me about Angular, TypeScript, Signals, NgRx, NGXS, RxJS, and testing
 
-My experience includes enterprise platforms, reusable component libraries, analytics dashboards, workflow-driven applications, secure document handling, API integration, and frontend test modernisation. I also work across the stack with **NestJS, Node.js, and PostgreSQL**, and I am expanding my expertise in **cloud architecture, DevOps, and AI-enabled software systems**.
+## Career Focus
 
-- 🔭 **Currently building:** Enterprise Angular applications, reusable UI components, and full-stack solutions with Angular, NestJS, and PostgreSQL
-- 🧭 **Career direction:** Senior Angular Developer → Frontend Architect → Cloud-native Solutions Architect
-- ☁️ **Cloud focus:** AWS, containerisation, CI/CD, scalable deployments, observability, performance, and security
-- 🌱 **Currently learning:** Advanced Angular architecture, distributed systems, cloud-native engineering, AI agents, RAG, and MCP-based integrations
-- 🤝 **Open to collaborating on:** Angular libraries, design systems, developer tools, enterprise platforms, and AI-powered applications
-- 💬 **Ask me about:** Angular, TypeScript, Signals, NgRx, NGXS, RxJS, frontend architecture, testing, and REST API integration
-
-## Featured Focus Areas
-
-- **Frontend Architecture:** Modular design, reusable component libraries, design systems, performance optimisation, accessibility, and maintainability
-- **Enterprise Application Development:** Dashboards, configurable widgets, multi-step workflows, role-based interfaces, forms, tables, and reporting tools
-- **Quality Engineering:** Unit testing, debugging, test-infrastructure migration, code quality, and reliable delivery
-- **Backend & Data:** REST APIs, authentication, NestJS, Node.js, PostgreSQL, SQL, and data-driven applications
-- **Cloud & DevOps:** AWS, Docker, Kubernetes fundamentals, GitHub Actions, Vercel, Render, Railway, Supabase, Firebase, and cloud deployment practices
-- **AI Engineering:** Agentic workflows, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and AI-assisted software development
-- **Technical Leadership:** Agile delivery, sprint planning, stakeholder coordination, documentation, and continuous improvement
+**Senior Angular Developer → Frontend Architect → Cloud-native Solutions Architect**
 
 ## Tech Stack
 
